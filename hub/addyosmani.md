@@ -1,4 +1,4 @@
-## 1st Tip
+## Tip # 1
 
 @ChromeDevTools Console supports multiple carets, column selection, word matching & many Text Editor keyboard shortcuts 🔥
 
