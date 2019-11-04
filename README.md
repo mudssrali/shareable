@@ -4,7 +4,7 @@ A curated and diversified list of knowledge *tips* share on `Twitter` by **Pro. 
 
 Here's the list of developers, whom I follow on `Twitter`:
 
-- [Addy Osmani](https://twitter.com/addyosmani)
+- [Addy Osmani](./hub/addyosmani.md)
 - [Ahmad Shadeed](https://twitter.com/shadeed9)
 - [Amelia Wattenberger](https://twitter.com/Wattenberger)
 - [Asim Hussain](https://twitter.com/jawache)
@@ -17,12 +17,12 @@ Here's the list of developers, whom I follow on `Twitter`:
 - [John Papa](https://twitter.com/John_Papa)
 - [Kenneth Auchenberg](https://twitter.com/auchenberg)
 - [Minko Gechev](https://twitter.com/mgechev)
-- [Samantha Ming](https://twitter.com/samantha_ming)
+- [Samantha Ming](./hub/samantha_ming.md)
 - [Sara Drasner](https://twitter.com/sarah_edo)
 - [Sara Soueidan](https://twitter.com/SaraSoueidan)
 - [Steve Schoger](https://twitter.com/steveschoger)
 - [Talor Otwell](https://twitter.com/taylorotwell)
-- [Tomek Sułkowski](https://twitter.com/sulco)
+- [Tomek Sułkowski](./hub/sulco.md)
 - [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko)
 - [Wes Bos](https://twitter.com/wesbos)
 

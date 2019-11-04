@@ -1,4 +1,6 @@
-## Tip # 1
+## Developer - [Addy Osmani](https://twitter.com/addyosmani)
+
+### Tip # 1
 
 @ChromeDevTools Console supports multiple carets, column selection, word matching & many Text Editor keyboard shortcuts 🔥
 
