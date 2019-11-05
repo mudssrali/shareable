@@ -2,7 +2,7 @@
 
 A curated and diversified list of knowledge *tips* share on `Twitter` by **Pro. Developers**
 
-Here's the list of developers, whom I follow on `Twitter`:
+Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) follow on `Twitter`:
 
 - [Addy Osmani](./hub/addyosmani.md) - 1
 - [Ahmad Shadeed](https://twitter.com/shadeed9)
@@ -16,6 +16,7 @@ Here's the list of developers, whom I follow on `Twitter`:
 - [JavaScript Joel](https://twitter.com/joelnet)
 - [John Papa](https://twitter.com/John_Papa)
 - [Kenneth Auchenberg](https://twitter.com/auchenberg)
+- [Mudassar Ali](./hub/voidwebdev.md)
 - [Minko Gechev](https://twitter.com/mgechev)
 - [Samantha Ming](./hub/samantha_ming.md) - 1
 - [Sara Drasner](https://twitter.com/sarah_edo)
