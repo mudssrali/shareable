@@ -6,4 +6,4 @@
 Description should be here
 ---
 
-![tip-one](./media/developer_name/tip_no.jpeg)
+![tip-one](./media/twitter_handle/tip_no.jpeg)

@@ -36,4 +36,4 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 
 **Note**: Please read [contributing](./CONTRIBUTING.md) if you want to contribute
 
-[:arrow_up: Back to top](#-developer-tips-)
+[:arrow_up: Back to top](#-developers-tips-)
