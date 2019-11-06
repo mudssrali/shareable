@@ -20,7 +20,7 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Carlos Caballero](https://twitter.com/Carlillo)
 - [Chris Achard](https://twitter.com/chrisachard)
 - [Dan Abramov](https://twitter.com/dan_abramov)
-- [JavaScript Joel](https://twitter.com/joelnet)
+- [JavaScript Joel](./hub/joelnet.md) (1)
 - [John Papa](https://twitter.com/John_Papa)
 - [Kenneth Auchenberg](https://twitter.com/auchenberg)
 - [Mudassar Ali](./hub/voidwebdev.md) (1)
