@@ -1,4 +1,4 @@
-## Developer - [Mudassar Ali](https://twitter.com/voidwebdev)
+# Developer [Mudassar Ali](https://twitter.com/voidwebdev)
 
 ### Tip # 1 - Optional Chanining
 

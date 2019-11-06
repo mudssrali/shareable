@@ -1,4 +1,4 @@
-## Developer - [Example](https://twitter.com/example)
+# Developer [Example](https://twitter.com/example)
 
 ### Tip # 1
 

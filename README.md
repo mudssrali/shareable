@@ -1,5 +1,5 @@
 <p align="center"><img src="./shareable.svg" alt="header-image"></p>
-<h1 align="center"> Developers Tips </h1>
+<h1 align="center">Developers Tips</h1>
 
 <p align="center"
   <a href="https://github.com/mudassar045/shareable">
@@ -36,4 +36,4 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 
 **Note**: Please read [contributing](./CONTRIBUTING.md) if you want to contribute
 
-[:arrow_up: Back to top](#-developers-tips-)
+[:arrow_up: Back to top](#developers-tips)

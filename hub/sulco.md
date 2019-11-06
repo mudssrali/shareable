@@ -1,4 +1,4 @@
-## Developer - [Tomek Sułkowski](https://twitter.com/sulco)
+# Developer [Tomek Sułkowski](https://twitter.com/sulco)
 
 ### Tip # 1
 

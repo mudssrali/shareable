@@ -1,4 +1,4 @@
-## Developer - [JavaScript Joel](https://twitter.com/joelnet)
+# Developer [JavaScript Joel](https://twitter.com/joelnet)
 
 ### Tip # 1
 

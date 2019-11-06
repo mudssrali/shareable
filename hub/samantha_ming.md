@@ -1,4 +1,4 @@
-## Developer - [Samantha Ming](https://twitter.com/samantha_ming)
+# Developer [Samantha Ming](https://twitter.com/samantha_ming)
 
 ### Tip # 1
 

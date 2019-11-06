@@ -1,4 +1,4 @@
-## Developer - [Addy Osmani](https://twitter.com/addyosmani)
+# Developer [Addy Osmani](https://twitter.com/addyosmani)
 
 ### Tip # 1
 
