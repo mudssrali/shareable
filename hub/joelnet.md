@@ -6,3 +6,5 @@
 
 ![computed-property-1](./media/joelnet/computed-properties-1.png)
 ![computed-property-1](./media/joelnet/computed-properties-2.png)
+
+[:arrow_up: Back to top](#developer-javascript-joel)
