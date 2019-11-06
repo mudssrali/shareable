@@ -32,7 +32,7 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Talor Otwell](https://twitter.com/taylorotwell)
 - [Tomek Sułkowski](./hub/sulco.md) (1)
 - [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko)
-- [Wes Bos](https://twitter.com/wesbos)
+- [Wes Bos](./hub/wesbos.md) (1)
 
 **Note**: Please read [contributing](./CONTRIBUTING.md) if you want to contribute
 
