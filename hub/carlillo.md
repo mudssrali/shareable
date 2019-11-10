@@ -12,4 +12,10 @@ Ever need to filter falsy values (0, undefined, null, false, etc.) out of an arr
 
 ![filter-undefined](./media/carlillo/filter-elems.jpeg)
 
+### Tip # 3
+
+`Object.fromEntries()` in ES10! Transform a list of key & value pairs into an object
+
+![filter-undefined](./media/carlillo/object-from-entries.jpeg)
+
 [:arrow_up: Back to top](#developer-carlos-caballero)
