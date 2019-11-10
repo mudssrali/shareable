@@ -24,11 +24,18 @@ A stable sorting algorithm is when two objects with equal keys appear in the sam
 
 ![stable-sort](./media/carlillo/stable-sort.jpeg)
 
-### Tip # 
+### Tip # 5
 
-Understanding Default Values with JavaScript's Destructuring 🧠🧠
-const { eyes = ' 👀' } = object
+Understanding Default Values with JavaScript's `Destructuring` 🧠🧠
+
+> const { eyes = ' 👀' } = object
 
 ![stable-sort](./media/carlillo/destructing-default.jpeg)
+
+### Tip # 6
+
+Flatten Arrays in Vanilla JavaScript using `flat()` and `flatMap()`
+
+![stable-sort](./media/carlillo/flat-flatmap.jpeg)
 
 [:arrow_up: Back to top](#developer-carlos-caballero)
