@@ -16,6 +16,12 @@ Ever need to filter falsy values (0, undefined, null, false, etc.) out of an arr
 
 `Object.fromEntries()` in ES10! Transform a list of key & value pairs into an object
 
-![filter-undefined](./media/carlillo/object-from-entries.jpeg)
+![object-from-entries](./media/carlillo/object-from-entries.jpeg)
+
+### Tip # 4
+
+A stable sorting algorithm is when two objects with equal keys appear in the same order in the sorted output as they appear in the unsorted input
+
+![stable-sort](./media/carlillo/stable-sort.jpeg)
 
 [:arrow_up: Back to top](#developer-carlos-caballero)
