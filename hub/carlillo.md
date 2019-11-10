@@ -24,4 +24,11 @@ A stable sorting algorithm is when two objects with equal keys appear in the sam
 
 ![stable-sort](./media/carlillo/stable-sort.jpeg)
 
+### Tip # 
+
+Understanding Default Values with JavaScript's Destructuring 🧠🧠
+const { eyes = ' 👀' } = object
+
+![stable-sort](./media/carlillo/destructing-default.jpeg)
+
 [:arrow_up: Back to top](#developer-carlos-caballero)
