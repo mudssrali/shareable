@@ -36,6 +36,22 @@ Understanding Default Values with JavaScript's `Destructuring` 🧠🧠
 
 Flatten Arrays in Vanilla JavaScript using `flat()` and `flatMap()`
 
-![stable-sort](./media/carlillo/flat-flatmap.jpeg)
+![flat-map](./media/carlillo/flat-flatmap.jpeg)
+
+### Tip # 7
+
+`Function.toString()` in ES10! The `toString()` method returns a string representing the source code of the function
+
+![to-string](./media/carlillo/func-tostring.jpeg)
+
+### Tip # 8 Dynamic Import
+
+Dynamic `import()` returns a promise for the module namespace object of the requested module. Therefore, imports can now be assigned to a variable using async/await.
+
+![dynamic-import](./media/carlillo/func-tostring.jpeg)
+
+## Full Article Links
+
+- [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
 
 [:arrow_up: Back to top](#developer-carlos-caballero)
