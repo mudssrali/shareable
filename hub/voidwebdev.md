@@ -11,7 +11,13 @@ Read more: [TypeScript 3.7](https://devblogs.microsoft.com/typescript/announcing
 
 ![num-conversion](./media/voidwebdev/num-convert.png)
 
-### Tip # 3 - ES - JS by Reference vs Value
+### Tip # 3 - Replace all intances of String
+
+Replacing all occurrences of a substring with another string is a common operation. Unfortunately, doing this correctly is surprisingly hard in JavaScript. 🤯 The new String.prototype.replaceAll API is here to help! 🎉 - [Mathias Bynens](https://twitter.com/voidwebdev)
+
+![replace-all](./media/voidwebdev/replace-all.jpeg)
+
+### Tip # 4 - ES - JS by Reference vs Value
 
 - Javascript is always pass by `value`, but when a variable refers to an object (including arrays), the `"value"` is a `reference` to the `object`.
 - Changing the value of a variable never changes the underlying `primitive` or `object`, it just points the variable to a new primitive or object.
