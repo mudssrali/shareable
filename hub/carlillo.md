@@ -56,6 +56,10 @@ Multi condition checking! if input is '🔬', '📜', or '👊', call doSomethin
 
 ![multi-condition](./media/carlillo/multi-condition.jpeg)
 
+Best Replies
+
+- You could also just write `['🔬', '📜', '👊'].includes(input)` - there's no need for the comparison function. [Lenz Weber](https://twitter.com/phry)
+
 ## Full Article Links
 
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
