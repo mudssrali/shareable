@@ -50,6 +50,12 @@ Dynamic `import()` returns a promise for the module namespace object of the requ
 
 ![dynamic-import](./media/carlillo/func-tostring.jpeg)
 
+### Tip # 9 Multi-Condition Checking
+
+Multi condition checking! if input is '🔬', '📜', or '👊', call doSomething function then you can use a nice shorthand 👍
+
+![multi-condition](./media/carlillo/multi-condition.jpeg)
+
 ## Full Article Links
 
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
