@@ -56,6 +56,13 @@ Multi condition checking! if input is '🔬', '📜', or '👊', call doSomethin
 
 ![multi-condition](./media/carlillo/multi-condition.jpeg)
 
+
+### TIp # 10 Reduce and ReduceRight
+
+The `reduceRight` method applies a function against an accumulator and each value of the array (from right-to-left) to reduce it to a single value.
+
+![multi-condition](./media/carlillo/reduce-right.jpg)
+
 Best Replies
 
 - You could also just write `['🔬', '📜', '👊'].includes(input)` - there's no need for the comparison function. [Lenz Weber](https://twitter.com/phry)
