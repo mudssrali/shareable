@@ -56,6 +56,9 @@ Multi condition checking! if input is '🔬', '📜', or '👊', call doSomethin
 
 ![multi-condition](./media/carlillo/multi-condition.jpeg)
 
+Best Replies
+
+- You could also just write `['🔬', '📜', '👊'].includes(input)` - there's no need for the comparison function. [Lenz Weber](https://twitter.com/phry)
 
 ### TIp # 10 Reduce and ReduceRight
 
@@ -63,11 +66,11 @@ The `reduceRight` method applies a function against an accumulator and each valu
 
 ![multi-condition](./media/carlillo/reduce-right.jpg)
 
-Best Replies
+### Tip # 11 Async Iteration in for...of
 
-- You could also just write `['🔬', '📜', '👊'].includes(input)` - there's no need for the comparison function. [Lenz Weber](https://twitter.com/phry)
+Asynchronous Iteration in ES2018! Asynchronous iterators  returns a promise for a { value, done } pair. we can now use the await keyword with for … of loops.
 
-## Full Article Links
+![async-forof](./media/carlillo/async-forof.jpeg)
 
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
 
