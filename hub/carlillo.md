@@ -72,6 +72,14 @@ Asynchronous Iteration in ES2018! Asynchronous iterators  returns a promise for 
 
 ![async-forof](./media/carlillo/async-forof.jpeg)
 
+
+### Tip # 12 BigInt
+
+BigInt is the 7th primitive type in ES10! BigInt is an arbitrary-precision integer. What this means is that variables can now represent 2⁵³ numbers.
+
+![bigInt](./media/carlillo/bigInt.jpeg)
+
+
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
 
 [:arrow_up: Back to top](#developer-carlos-caballero)
