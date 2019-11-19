@@ -13,4 +13,15 @@
 
 ![conditional-comparison](./media/joelnet/ternary-op.png)
 
+### Tip # 3 Curring in JS
+
+When you need to partially apply arguments to a function (partial application), consider currying the function. As a bonus, code can run after each argument is applied
+
+![currying-function-1](./media/joelnet/currying-func-1.png)
+
+![currying-function-2](./media/joelnet/currying-func-2.png)
+
+For more information read the article [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
+
+
 [:arrow_up: Back to top](#developer-javascript-joel)
