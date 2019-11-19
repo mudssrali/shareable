@@ -31,7 +31,7 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Sara Soueidan](https://twitter.com/SaraSoueidan)
 - [Steve Schoger](https://twitter.com/steveschoger)
 - [Tomek Sułkowski](./hub/sulco.md) (2)
-- [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko)
+- [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko) (1)
 - [Wes Bos](./hub/wesbos.md) (2)
 
 **Note**: Please read [contributing](./CONTRIBUTING.md) if you want to contribute
