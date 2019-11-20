@@ -18,4 +18,10 @@ if (existingUserErr) {
 
 ![asyncof](./media/manekinekko/asyncof.jpeg)
 
+### Tip # 2 Toggle Multi-line Comments
+
+The `//*/ //*/` multi-lines #code comment toggle
+
+[Watch Demo Twitter](https://twitter.com/i/status/1196951738927996930)
+
 [:arrow_up: Back to top](#developer-wassim-chegham-aka-wasm)

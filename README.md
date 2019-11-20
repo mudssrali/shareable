@@ -21,7 +21,7 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Chris Achard](https://twitter.com/chrisachard)
 - [Dan Abramov](https://twitter.com/dan_abramov)
 - [David Walsh](./hub/davidwalshblog.md)
-- [JavaScript Joel](./hub/joelnet.md) (2)
+- [JavaScript Joel](./hub/joelnet.md) (3)
 - [John Papa](https://twitter.com/John_Papa)
 - [Kenneth Auchenberg](https://twitter.com/auchenberg)
 - [Mudassar Ali](./hub/voidwebdev.md) (4)
@@ -31,7 +31,7 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Sara Soueidan](https://twitter.com/SaraSoueidan)
 - [Steve Schoger](https://twitter.com/steveschoger)
 - [Tomek Sułkowski](./hub/sulco.md) (2)
-- [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko) (1)
+- [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko) (2)
 - [Wes Bos](./hub/wesbos.md) (2)
 
 **Note**: Please read [contributing](./CONTRIBUTING.md) if you want to contribute
