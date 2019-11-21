@@ -7,17 +7,15 @@
   </a>
 </p>
 
-A curated and diversified list of knowledge *tips* share on `Twitter` by **Pro. Developers**
+A curated and diversified list of knowledge *tips* for JS share on `Twitter` by **Pro. Developers**
 
 Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) follow on `Twitter`:
 
 - [Addy Osmani](./hub/addyosmani.md) (1)
-- [Ahmad Shadeed](https://twitter.com/shadeed9)
 - [Amelia Wattenberger](https://twitter.com/Wattenberger)
 - [Asim Hussain](https://twitter.com/jawache)
 - [Awais Ahmad](https://twitter.com/MrAhmadAwais)
-- [Calib Porzio](https://twitter.com/calebporzio)
-- [Carlos Caballero](./hub/carlillo.md) (12)
+- [Carlos Caballero](./hub/carlillo.md) (13)
 - [Chris Achard](https://twitter.com/chrisachard)
 - [Dan Abramov](https://twitter.com/dan_abramov)
 - [David Walsh](./hub/davidwalshblog.md)
@@ -28,8 +26,6 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Minko Gechev](https://twitter.com/mgechev) (1)
 - [Samantha Ming](./hub/samantha_ming.md) (1)
 - [Sara Drasner](https://twitter.com/sarah_edo)
-- [Sara Soueidan](https://twitter.com/SaraSoueidan)
-- [Steve Schoger](https://twitter.com/steveschoger)
 - [Tomek Sułkowski](./hub/sulco.md) (2)
 - [Wassim CHEGHAM aka WASM](https://twitter.com/manekinekko) (2)
 - [Wes Bos](./hub/wesbos.md) (2)
