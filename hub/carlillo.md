@@ -79,6 +79,11 @@ BigInt is the 7th primitive type in ES10! BigInt is an arbitrary-precision integ
 
 ![bigInt](./media/carlillo/bigInt.jpeg)
 
+### Tip # 13 gblobalThis
+
+globalThis in ES10! The global this was not standardized before ES10. However, you would standardize it across multiple platforms on your own but now there is globalThis Object.
+
+![globalthis](./media/carlillo/globalthis.jpeg)
 
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
 
