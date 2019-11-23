@@ -23,5 +23,14 @@ When you need to partially apply arguments to a function (partial application), 
 
 For more information read the article [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 
+### Tip # 4
+
+The 3 blocks of code on the left do the same thing. That is, they create a new instance of a function for every object created.
+
+- They do not reuse the prototype function
+- They become the same as the function on the right
+- These patterns are common in React
+
+![curried-usage](./media/joelnet/curried-usage.jpeg)
 
 [:arrow_up: Back to top](#developer-javascript-joel)
