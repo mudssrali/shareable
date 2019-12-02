@@ -48,7 +48,7 @@ Flatten Arrays in Vanilla JavaScript using `flat()` and `flatMap()`
 
 Dynamic `import()` returns a promise for the module namespace object of the requested module. Therefore, imports can now be assigned to a variable using async/await.
 
-![dynamic-import](./media/carlillo/func-tostring.jpeg)
+![dynamic-import](./media/carlillo/dynamic-import.jpeg)
 
 ### Tip # 9 Multi-Condition Checking
 
@@ -91,6 +91,12 @@ The findOne method simulates the search for a data in a data structure that take
 
 ![callbacks](./media/carlillo/callbacks.jpeg)
 
+### Tip # 15 Promise.all (ES2015) vs Promise.allSettled (ES2020)
+
+Promise.all - If any promises is rejected then  immediately rejects with that error
+Promise.allSettled - Wait for all passed promises to settle
+
+![promise-allsettled](./media/carlillo/promise-allsettled.jpeg)
 
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
 
