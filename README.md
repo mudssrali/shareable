@@ -23,7 +23,7 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [John Papa](https://twitter.com/John_Papa)
 - [Kenneth Auchenberg](https://twitter.com/auchenberg)
 - [Mudassar Ali](./hub/voidwebdev.md) (4)
-- [Minko Gechev](https://twitter.com/mgechev) (1)
+- [Minko Gechev](./hub/mgechev.md) (1)
 - [Samantha Ming](./hub/samantha_ming.md) (1)
 - [Sara Drasner](https://twitter.com/sarah_edo)
 - [Tomek Sułkowski](./hub/sulco.md) (2)
