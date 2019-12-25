@@ -33,4 +33,10 @@ The 3 blocks of code on the left do the same thing. That is, they create a new i
 
 ![curried-usage](./media/joelnet/curried-usage.jpeg)
 
+### Tip # 5 💡 Turn any object into an Iterable
+
+use `Symbol.iterator` to control how your object is iterated
+
+![symbol iterator](./media/joelnet/iteratable.jpeg)
+
 [:arrow_up: Back to top](#developer-javascript-joel)
