@@ -39,4 +39,10 @@ use `Symbol.iterator` to control how your object is iterated
 
 ![symbol iterator](./media/joelnet/iteratable.jpeg)
 
+### Tip # 6 💡 Simple closures can provide complex functionality
+
+This example shows `count` in a closure, updated on every call to `counter()`
+
+![symbol iterator](./media/joelnet/closure.png)
+
 [:arrow_up: Back to top](#developer-javascript-joel)
