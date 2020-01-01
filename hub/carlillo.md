@@ -72,7 +72,6 @@ Asynchronous Iteration in ES2018! Asynchronous iterators  returns a promise for 
 
 ![async-forof](./media/carlillo/async-forof.jpeg)
 
-
 ### Tip # 12 BigInt
 
 BigInt is the 7th primitive type in ES10! BigInt is an arbitrary-precision integer. What this means is that variables can now represent 2⁵³ numbers.
@@ -99,5 +98,17 @@ Promise.allSettled - Wait for all passed promises to settle
 ![promise-allsettled](./media/carlillo/promise-allsettled.jpeg)
 
 - [Twelve ES10 Features in Twelve Simple Examples](https://medium.com/better-programming/twelve-es10-features-in-twelve-simple-examples-6e8cc109f3d3)
+
+### Tip # 16 Optional Chaining Operator I - ES2020
+
+The Optional Chaining Operator allows handle many of those cases without repeating themselves and/or assigning intermediate results in temporary variables.
+
+![optional-chaining-2](./media/carlillo/es20-optional-chaining-2.jpeg)
+
+### Tip # 17 Optional Chaining Operator II - ES2020
+
+The Optional Chaining Operator allows handle many of those cases without repeating themselves and/or assigning intermediate results in temporary variables.
+
+![optional-chaining-2](./media/carlillo/es20-optional-chaining-2.jpeg)
 
 [:arrow_up: Back to top](#developer-carlos-caballero)
