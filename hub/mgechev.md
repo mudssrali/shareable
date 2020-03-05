@@ -1,4 +1,4 @@
-# Developer [Carlos Caballero](https://twitter.com/mgechev)
+# Developer [Minko Gechev](https://twitter.com/mgechev)
 
 ### Tip # 1
 
