@@ -1,10 +1,15 @@
 <p align="center"><img src="./shareable.svg" alt="header-image"></p>
 <h1 align="center">Developers Tips</h1>
 
-<p align="center"
+<p align="center">
   <a href="https://github.com/mudassar045/shareable">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
+  <a href="https://github.com/mudassar045/shareable" target="\_parent">
+  <img alt="" src="https://img.shields.io/github/stars/mudassar045/shareable.svg?style=social&label=Star" />
+</a><a href="https://twitter.com/voidwebdev" target="\_parent">
+  <img alt="" src="https://img.shields.io/twitter/follow/voidwebdev.svg?style=social&label=Follow" />
+</a>
 </p>
 
 A curated and diversified list of knowledge *tips* for JS share on `Twitter` by **Pro. Developers**
@@ -14,14 +19,9 @@ Here's the list of developers, whom [I - Mudassar Ali](./hub/voidwebdev.md) foll
 - [Addy Osmani](./hub/addyosmani.md) (1)
 - [Amelia Wattenberger](https://twitter.com/Wattenberger)
 - [Asim Hussain](https://twitter.com/jawache)
-- [Awais Ahmad](https://twitter.com/MrAhmadAwais)
 - [Carlos Caballero](./hub/carlillo.md) (17)
-- [Chris Achard](https://twitter.com/chrisachard)
-- [Dan Abramov](https://twitter.com/dan_abramov)
-- [David Walsh](./hub/davidwalshblog.md)
 - [JavaScript Joel](./hub/joelnet.md) (6)
 - [John Papa](https://twitter.com/John_Papa)
-- [Kenneth Auchenberg](https://twitter.com/auchenberg)
 - [Mudassar Ali](./hub/voidwebdev.md) (4)
 - [Minko Gechev](./hub/mgechev.md) (1)
 - [Samantha Ming](./hub/samantha_ming.md) (1)
